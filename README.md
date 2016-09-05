@@ -5,7 +5,7 @@ Crimes - 2001 to present, 1.5GB](https://data.cityofchicago.org/Public-Safety/Cr
 
 ### [Chicago Crime 2001 - present (Aug 25, 2016)](https://docs.google.com/spreadsheets/d/1o6gmzUn5msqEsPJyq4VxvWZ3Jj8jDHUmYZIc8vhBVj4/edit?usp=sharing)
 
-The three sheets in the document show:
+The sheets in the document show:
 
 0. How [the IUCR (Illinois Uniform Crime Reporting) codes](https://data.cityofchicago.org/Public-Safety/Chicago-Police-Department-Illinois-Uniform-Crime-R/c7ck-438e) were grouped for the purposed of the aggregation. IUCR codes not listed in the sheet are not used in the aggregates.
 0. Graphs and the whole dataset aggregation from January 2011.
